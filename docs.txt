@@ -1,20 +1,25 @@
+[ ELEMENTS ]
 ---------------------------------
 MAIN ELEMENTS
-> block-o
-> top-bar-o
-> sidebar-o
-> bottom-bar-o
----------------------------------
-BASIC ELEMENTS
-> block-l
-> block-la -> double
-> block-lb -> triple
-> block-lc -> floaty
+> block-o -> main collector
+> top-bar-o -> top navigation
+> sidebar-o -> side navigation
+> bottom-bar-o -> bottom navigation
+> block-l -> solo block
+> block-la -> double block
+> block-lb -> triple block
+> block-lc -> floaty block
 ---------------------------------
 CONTENT ELEMENTS
-> text-l
-> text-la
+> text-l -> title
+> text-la -> subtitle
+> text-lb -> main text
 ---------------------------------
-OTHER ELEMENTS
+[ CLASSES ]
+---------------------------------
+> la-center ->
+---------------------------------
+[ ADDITIONAL ]
+---------------------------------
 > center -> for float=center
 ---------------------------------

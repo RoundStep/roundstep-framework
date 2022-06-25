@@ -10,22 +10,47 @@ block-lc {
     height: auto;
     text-decoration: none;
     border-radius: 8px;
-    width: 100%;
     padding: 2%;
+    background: whitesmoke;
+    margin-bottom: 5%;
+}
+
+block-o {
+    background: white;
 }
 
 text-l,
-text-la {
+text-la,
+text-lb,
+text-lc {
     display: block;
     text-decoration: none;
     color: black;
-    width: 100%;
+    width: auto;
     float: center;
     font-size: 1em;
+    height: auto;
+}
+
+text-lb {
+    font-size: 1.5em;
+}
+
+text-la {
+    font-size: 2em;
+}
+
+text-l {
+    font-size: 2.5em;
 }
 
 block-l {
-    background: whitesmoke;
     width: 80%;
-    margin-bottom: 5%;
+}
+
+block-la {
+    width: 40%;
+    float: left;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
 }

@@ -1,0 +1,9 @@
+[ BORDER RADIUS ] > [ ELEMENTS ]
+---------------------------------
+> blocks -> 10px
+> img -> 8px
+---------------------------------
+[ visual style ] > [ CONTENT ]
+> block-background -> whitesmoke
+> margin-next-element -> 5%
+---------------------------------
